@@ -17,13 +17,13 @@
 <resources>
 
     <!-- Divider color for header separator -->
-    <color name="primary_text_color">#363636</color>
+    <color name="primary_text_color">#CECECE</color>
 
     <!-- Divider color for header separator -->
-    <color name="secondary_text_color">#888888</color>
+    <color name="secondary_text_color">#A0A0A0</color>
 
     <!-- Divider color for header separator -->
-    <color name="main_header_separator_color">#AAAAAA</color>
+    <color name="main_header_separator_color">#33B5E5</color>
 
     <!-- Divider color for header separator -->
     <color name="secondary_header_separator_color">#D0D0D0</color>
